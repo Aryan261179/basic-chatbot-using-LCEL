@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+faiss-cpu
+streamlit
+Ollama
+langsmith
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
